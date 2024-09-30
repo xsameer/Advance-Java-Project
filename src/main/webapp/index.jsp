@@ -19,8 +19,6 @@
 </head>
 <body>
 	<%@include file="components/navbar.jsp"%>
-
-
 	<div class="container-fluid back-img">
 		<div class="text-center">
 			<h1 class="text-white p-4">
