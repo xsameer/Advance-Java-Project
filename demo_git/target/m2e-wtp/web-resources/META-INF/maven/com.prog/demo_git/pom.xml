@@ -22,6 +22,11 @@
     <scope>provided</scope>
 </dependency>
 
+  	<dependency>
+  		<groupId>com.example</groupId>
+  		<artifactId>demo-2</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   <build>
     <finalName>demo_git</finalName>

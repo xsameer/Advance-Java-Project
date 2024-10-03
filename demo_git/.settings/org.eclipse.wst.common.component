@@ -5,6 +5,9 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-sources/annotations"/>
+        <dependent-module archiveName="demo-2-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/demo-2/demo-2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="demo_git"/>
         <property name="java-output-path" value="/demo_git/target/classes"/>
     </wb-module>
