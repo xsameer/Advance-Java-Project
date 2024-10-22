@@ -42,11 +42,6 @@
 		</dependency>
 
 
-		<dependency>
-			<groupId>Mca</groupId>
-			<artifactId>d216</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 	<build>
 		<finalName>Job_Portal</finalName>
